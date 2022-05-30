@@ -3,6 +3,7 @@
     padding: 10px;
     display: flex;
     justify-content: space-between;
+    height: 45px;
 }
 .storeLogoLink{
     text-decoration: none;

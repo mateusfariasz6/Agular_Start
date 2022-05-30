@@ -35,5 +35,97 @@ export const products = [
         name: 'Newest HP',
         price: 1139.00,
         description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
+    },
+    {
+        id: 5,
+        name: 'Newest HP',
+        price: 1139.00,
+        description: '17t Laptop, 17.3 HD+ Non-Touch Screen, Intel Core i7-1165G7 Quad-Core Processor, 64GB DDR4 RAM, 1TB PCIe NVMe SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam, Windows 11 Home, Black'
     }
+    
+    
 ];
